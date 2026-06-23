@@ -48,4 +48,4 @@ while True:
         save(result)
         log(result)
     print("---")
-    time.sleep(60)
+    time.sleep(5)
